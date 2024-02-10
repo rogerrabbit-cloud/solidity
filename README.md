@@ -64,14 +64,22 @@ browser-based IDE. Here are some example contracts:
 3. [Safe remote purchase](https://docs.soliditylang.org/en/latest/solidity-by-example.html#safe-remote-purchase)
 4. [Micropayment Channel](https://docs.soliditylang.org/en/latest/solidity-by-example.html#micropayment-channel)
 
-## Documentation
+## Documentation 
 
 The Solidity documentation is hosted using [Read the Docs](https://docs.soliditylang.org).
+
+The Solidity contribution documentation is available for all that would like to learn [Here Is The Next Step](https://docs.soliditylang.org/en/latest/contributing.html).
+
+
+[![SOLIDITY](https://docs.soliditylang.org/en/v0.8.24/_static/img/logo.svg)](https://docs.soliditylang.org/en/v0.8.24/contributing.html)
+
+
+
 
 ## Development
 
 Solidity is still under development. Contributions are always welcome!
-Please follow the
+Please follow the        
 [Developers Guide](https://docs.soliditylang.org/en/latest/contributing.html)
 if you want to help.
 
